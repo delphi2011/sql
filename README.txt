@@ -1,2 +1,2 @@
 sql practice
-second commit.
+second commit
